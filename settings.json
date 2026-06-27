@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PlayAlphaMC7.aternos.me",
-    "port": 35174,
+    "ip": "PlayAlpha.aternos.me",
+    "port": 6062,
     "version": "1.21.1"
   },
   "position": {
